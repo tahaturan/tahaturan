@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Taha 👋
 
 <!--
 **tahaturan/tahaturan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif" align="right" width="400" height="250">
-### Hi there, I'm Taha :smile:
 
 ## Programming Student | Mobile & Backend Developer
 
