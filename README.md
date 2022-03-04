@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="32" style="max-width: 100%;"></a> 
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="32" style="max-width: 100%;"></a> 
 </p>
-
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaturan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/taha-turan/
