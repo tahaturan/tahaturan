@@ -27,16 +27,16 @@ Here are some ideas to get you started:
 
 ### 🌱I'm currently working/learning on
 
-<img src="https://miro.medium.com/max/900/0*1QVqmVbbaVm1f_n9.png"  width="50" height="30" />
-<img src="https://logowik.com/content/uploads/images/flutter5786.jpg"  width="50" height="30" />
+<img align="letf" src="https://miro.medium.com/max/900/0*1QVqmVbbaVm1f_n9.png"  width="50" height="30" />
+<img align="letf" src="https://logowik.com/content/uploads/images/flutter5786.jpg"  width="50" height="30" />
 <hr>
 
 ### 🔭Tech I Use
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="25" height="25" />
+<img align="letf" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"   width="25" height="25" />
+<img align="letf" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="25" height="25" />
+<img align="letf" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  width="25" height="25" />
+<img align="letf" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="25" height="25" />
 
 <hr>
 
