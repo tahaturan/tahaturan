@@ -43,7 +43,5 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaturan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [linkedin]: https://www.linkedin.com/in/taha-turan/
 [instagram]: https://www.instagram.com/tahaaturan/
