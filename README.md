@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### 📫Reach out me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="letf" />][linkedin]
+[<img  width="22" src="https://img.icons8.com/fluency/344/instagram-new.png" align="left" />][instagram]
+[<img  width="22" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" align="letf" />][linkedin]
 
 <hr>
 
