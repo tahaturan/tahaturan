@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### 📫Reach out me
 
-[<img  width="30" src="https://img.icons8.com/fluency/344/instagram-new.png" align="left" />][instagram]
-[<img  width="30" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" align="letf" />][linkedin]
+[<img  width="30" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" align="left" />][instagram]
+[<img  width="30" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1650731557~hmac=b059d53ea7f82f86536f8efcf1f28335" align="letf" />][linkedin]
 
 <hr>
 
