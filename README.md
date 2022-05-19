@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif" align="right" width="400" height="250">
 
-## Programming Student | Mobile & Backend Developer
+## Programming Student | Mobile Developer
 
 ### 📫Reach out me
 
