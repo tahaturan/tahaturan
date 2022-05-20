@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif" align="right" width="400" height="200">
 
 ## Programming Student | Mobile Developer
 
