@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="32" style="max-width: 100%;"></a> 
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height="32" style="max-width: 100%;"></a> 
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="32" style="max-width: 100%;"></a> 
- <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="32" style="max-width: 100%;"></a> 
+ <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="32" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" height="32" style="max-width: 100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Xcode_14_icon.png/240px-Xcode_14_icon.png" height="32" style="max-width: 100%;"></a> 
 </p>
 <hr>
 
